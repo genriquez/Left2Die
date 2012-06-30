@@ -44,16 +44,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Prefabs\Zombie\ZombieAIDirector.js" />
-     <Compile Include="Assets\Prefabs\Zombie\ZombieAttackingAIController.js" />
-     <Compile Include="Assets\Prefabs\Zombie\ZombieChasingAIController.js" />
-     <Compile Include="Assets\Prefabs\Zombie\ZombieRoamingAIController.js" />
      <Compile Include="Assets\Prefabs\Zombie\ZombieStunnedAIController.js" />
-     <Compile Include="Assets\Scripts\EntityHealthController.js" />
-     <Compile Include="Assets\Scripts\GameController.js" />
-     <Compile Include="Assets\Scripts\PlayerController.js" />
-     <Compile Include="Assets\Scripts\SpawnPointController.js" />
-     <Compile Include="Assets\Scripts\StartButtonController.js" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
